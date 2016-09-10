@@ -1,0 +1,21 @@
+{
+  "name": "worst-tests-ever",
+  "version": "1.0.0",
+  "description": "A collection of poorly written tests",
+  "scripts": {
+    "test": "tap --cov test/test_*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffkole/worst-tests-ever.git"
+  },
+  "author": "Jeff Kolesky <github@kolesky.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffkole/worst-tests-ever/issues"
+  },
+  "homepage": "https://github.com/jeffkole/worst-tests-ever#readme",
+  "devDependencies": {
+    "tap": "^7.1.2"
+  }
+}
